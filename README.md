@@ -3,7 +3,8 @@
 Ce dépôt sert de point d’entrée vers la **Théorie des Océans Quantiques (TOQ)** et ses dépôts de référence.
 
 ## Liens principaux
-- **Zenodo (dépôts / DOI)** : [à compléter]
+- **Zenodo (dépôts / DOI)** : [[à compléter]](https://zenodo.org/search?f=all&q=orcid%3A0009-0003-7926-4331
+)
 - **OSF (hub projet)** : [à compléter]
 - **ORCID (profil auteur)** : - **ORCID (profil auteur)** : https://orcid.org/0009-0003-7926-4331
 
