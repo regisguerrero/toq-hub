@@ -4,7 +4,7 @@ Ce dépôt sert de point d’entrée vers la **Théorie des Océans Quantiques (
 
 ## Liens principaux
 - **Zenodo (dépôts / DOI)** : https://zenodo.org/search?f=all&q=orcid%3A0009-0003-7926-4331
-- **OSF (hub projet)** : [à compléter]
+- **OSF (hub projet)** : https://osf.io/4hxdc/
 - **ORCID (profil auteur)** : - **ORCID (profil auteur)** : https://orcid.org/0009-0003-7926-4331
 
 ## Commencer ici (10 minutes)
