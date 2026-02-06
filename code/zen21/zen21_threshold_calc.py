@@ -1,14 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ZEN21-B : CALCUL DE LA FRONTIÈRE AXIOMATIQUE
--------------------------------------------
-Ce script dérive la borne de synchronisation théorique (E*) 
-et le pic de structure froide (E_peak) à haute énergie.
+TOR726 — ZEN21 (Code de référence)
 
-Auteur : Régis Music
-Série : ZEN / TOQ
-Date : Février 2026
+Objectif (niveau Licence)
+------------------------
+Ce script calcule les deux valeurs "figées" du package ZEN21 :
+  - E*   = 726.0 GeV  (borne / seuil)
+  - Epeak ≈ 747.9 GeV (pic de structure "froide")
+
+Ce dépôt/artefact sert à la reproductibilité et à la traçabilité.
+
+Comment citer
+------------
+- ZEN21-0 (Index / package) : DOI = 10.5281/zenodo.18510570
+- ZEN21-A (Méthode / protocole) : DOI = 10.5281/zenodo.18510305
+- ZEN21-B (Paramètres figés) : DOI = 10.5281/zenodo.18510350
+- (Optionnel) Archive logicielle Zenodo (Software DOI) : [à renseigner si activé]
+
+Licence
+-------
+Code : MIT (recommandé) ou selon le choix du dépôt GitHub/Zenodo.
+Documents (PDF) : CC BY 4.0 (voir Zenodo records).
 """
 
 import numpy as np
