@@ -18,7 +18,7 @@ Ce dépôt sert de point d’entrée vers la **Théorie des Océans Quantiques (
 - Ce dépôt GitHub sert d’**annuaire** (liens) et héberge les **scripts de reproductibilité** (quand pertinents).
 
 ## Code (reproductibilité)
-- **ZEN21 (TOR726)** : `code/zen21/`
+- **ZEN21 (TOR726)** : [code/zen21/](code/zen21/)
 
 ## Contact
 - Email : toq.research@laposte.net
