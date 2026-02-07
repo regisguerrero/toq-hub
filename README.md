@@ -5,8 +5,7 @@ Ce dépôt sert de point d’entrée vers la **Théorie des Océans Quantiques (
 ## Liens principaux
 - **OSF (hub projet)** : https://osf.io/4hxdc/
 - **ORCID (profil auteur)** : https://orcid.org/0009-0003-7926-4331
-- **Zenodo — Index complet (ZEN00–ZEN23)** : `zenodo/INDEX.md`
-
+- **➡️ Index Zenodo (ZEN00–ZEN23)** : [ouvrir l’index](zenodo/INDEX.md)
 ## Commencer ici (10 minutes)
 1. **Lire le cadre (Core)** : ZEN00 — https://doi.org/10.5281/zenodo.18487438
 2. **Lire la méthode** : ZEN08 — https://doi.org/10.5281/zenodo.18488011
